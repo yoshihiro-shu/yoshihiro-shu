@@ -4,7 +4,7 @@
 
 作り途中[Backend API](https://github.com/yoshihiro-shu/draft-backend)
 
-- （Gorilla）[https://github.com/gorilla/mux], PostgreSQL, Redis, Nginxを用いたWebAPI
+- [Gorilla](https://github.com/gorilla/mux), PostgreSQL, Redis, Nginxを用いたWebAPI
 - 自分のテックブログを作成する予定
 
 ### Kubernetes
