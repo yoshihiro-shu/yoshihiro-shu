@@ -2,14 +2,14 @@
 
 ### Golang 
 
-開発中[Backend API](https://github.com/yoshihiro-shu/draft-backend)
+[Backend API](https://github.com/yoshihiro-shu/draft-backend)　開発中
 
 - [Gorilla](https://github.com/gorilla/mux), PostgreSQL, Redis, Nginxを用いたWebAPI
 - 自分のテックブログを作成する予定
 
 ### Kubernetes
 
-開発中[Infra](https://github.com/yoshihiro-shu/draft-infra)
+[Infra](https://github.com/yoshihiro-shu/draft-infra)　開発中
 
 - Helmを用いてBackendAPIをdeploy
 
