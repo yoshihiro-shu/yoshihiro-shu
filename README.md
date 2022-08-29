@@ -5,7 +5,13 @@
 [Backend API](https://github.com/yoshihiro-shu/draft-backend)　開発中
 
 - [Gorilla](https://github.com/gorilla/mux), PostgreSQL, Redis, Nginxを用いたWebAPI
-- 自分のテックブログを作成する予定
+- 自分のテックブログを作成予定
+
+### Nuxt.js
+
+[Comming Soon]()
+
+- 自分のテックブログを作成予定
 
 ### Kubernetes
 
