@@ -1,16 +1,17 @@
-### Hi there 👋
-
-### レポジトリ
+## レポジトリ
 
 ### Golang 
 
-https://github.com/yoshihiro-shu/draft-backend
+作り途中[Backend API](https://github.com/yoshihiro-shu/draft-backend)
 
+- （Gorilla）[https://github.com/gorilla/mux], PostgreSQL, Redis, Nginxを用いたWebAPI
+- 自分のテックブログを作成する予定
 
 ### Kubernetes
 
-https://github.com/yoshihiro-shu/draft-infra
+作り途中[Infra](https://github.com/yoshihiro-shu/draft-infra)
 
+- Helmを用いてBackendAPIをdeploy
 
 ### Python
 
