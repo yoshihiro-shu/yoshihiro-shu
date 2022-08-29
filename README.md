@@ -9,7 +9,7 @@
 
 ### Nuxt.js
 
-[Comming Soon]()
+[Comming Soon](#)
 
 - 自分のテックブログを作成予定
 
