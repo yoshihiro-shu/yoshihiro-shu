@@ -15,7 +15,7 @@
 
 ### Kubernetes
 
-[Infra](https://github.com/yoshihiro-shu/draft-infra)　開発中
+[Infra](https://github.com/yoshihiro-shu/dratf-infra)　開発中
 
 - Helmを用いてBackendAPIをdeploy
 
