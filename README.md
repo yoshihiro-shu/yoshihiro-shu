@@ -9,7 +9,7 @@
 
 ### Nuxt.js
 
-[Comming Soon](https://github.com/yoshihiro-shu/draft-front)
+[Frontend](https://github.com/yoshihiro-shu/draft-front)
 
 - 自分のテックブログを作成予定
 
