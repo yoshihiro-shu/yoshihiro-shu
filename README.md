@@ -12,6 +12,7 @@
 [Frontend](https://github.com/yoshihiro-shu/draft-front)
 
 - 自分のテックブログを作成予定
+// TODO change npm to yarn & add composition-api
 
 ### Kubernetes
 
