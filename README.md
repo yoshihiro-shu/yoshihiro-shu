@@ -9,7 +9,7 @@
 
 ### Nuxt.js/typescript
 
-[Frontend](https://github.com/yoshihiro-shu/draft-front)
+[Frontend](https://github.com/yoshihiro-shu/draft-front) 開発中
 
 - 自分のテックブログを作成予定
 // TODO change npm to yarn & add composition-api
