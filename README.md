@@ -7,7 +7,7 @@
 - [Gorilla](https://github.com/gorilla/mux), PostgreSQL, Redis, Nginxを用いたWebAPI
 - 自分のテックブログを作成予定
 
-### Nuxt.js
+### Nuxt.js/typescript
 
 [Frontend](https://github.com/yoshihiro-shu/draft-front)
 
