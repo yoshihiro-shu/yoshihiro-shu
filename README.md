@@ -1,6 +1,6 @@
 ## レポジトリ
 
-### Golang [Backend API](https://github.com/yoshihiro-shu/draft-backend)
+### [Backend API](https://github.com/yoshihiro-shu/draft-backend)
 
 Golang　開発中
 
@@ -8,7 +8,7 @@ Golang　開発中
 - Twitter API
 - 自分のテックブログを作成予定
 
-### Nuxt3 [Frontend](https://github.com/yoshihiro-shu/draft-front) 
+### [Frontend](https://github.com/yoshihiro-shu/draft-front) 
 
 Nuxt3 開発中
 
