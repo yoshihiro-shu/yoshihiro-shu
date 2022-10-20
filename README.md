@@ -15,9 +15,9 @@
 - 自分のテックブログを作成予定
 // TODO change npm to yarn & add composition-api
 
-### Kubernetes
+### [Infra](https://github.com/yoshihiro-shu/dratf-infra)　
 
-[Infra](https://github.com/yoshihiro-shu/dratf-infra)　開発中
+Kubernetes　開発中
 
 - Helmを用いてBackendAPIをdeploy
 
