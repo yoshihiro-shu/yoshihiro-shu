@@ -21,7 +21,7 @@ Kubernetes　開発中
 
 - Helmを用いてBackendAPIをdeploy
 
-### Python
+### Hackthon
 
 [sns型のクイズの投稿サイト](https://github.com/yoshi429/quiz_project)-クイズで学ぶをコンセプトにしたクイズの投稿サイト (Django, AMAZON S3, JavaScript)
 
