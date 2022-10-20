@@ -1,16 +1,16 @@
 ## レポジトリ
 
-### Golang 
+### Golang [Backend API](https://github.com/yoshihiro-shu/draft-backend)
 
-[Backend API](https://github.com/yoshihiro-shu/draft-backend)　開発中
+Golang　開発中
 
 - [Gorilla](https://github.com/gorilla/mux), PostgreSQL, Redis, Nginxを用いたWebAPI
 - Twitter API
 - 自分のテックブログを作成予定
 
-### Nuxt3
+### Nuxt3 [Frontend](https://github.com/yoshihiro-shu/draft-front) 
 
-[Frontend](https://github.com/yoshihiro-shu/draft-front) 開発中
+Nuxt3 開発中
 
 - 自分のテックブログを作成予定
 // TODO change npm to yarn & add composition-api
