@@ -8,12 +8,11 @@ Golang　開発中
 - Twitter API
 - 自分のテックブログを作成予定
 
-### [Frontend](https://github.com/yoshihiro-shu/draft-front) 
+### [Frontend](https://github.com/yoshihiro-shu/draft-nuxt3) 
 
 Nuxt3 開発中
 
 - 自分のテックブログを作成予定
-// TODO change npm to yarn & add composition-api
 
 ### [Infra](https://github.com/yoshihiro-shu/dratf-infra)　
 
