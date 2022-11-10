@@ -20,6 +20,11 @@ Kubernetes　開発中
 
 - Helmを用いてBackendAPIをdeploy
 
+
+### [Twitter-Api-With-Cobra-Command](https://github.com/yoshihiro-shu/twitter-api-by-cobra-command)
+
+[Twiiter API](https://developer.twitter.com/en/docs/twitter-api) Via [Cobra](https://github.com/spf13/cobra) Command
+
 ### Hackthon
 
 [sns型のクイズの投稿サイト](https://github.com/yoshi429/quiz_project)-クイズで学ぶをコンセプトにしたクイズの投稿サイト (Django, AMAZON S3, JavaScript)
