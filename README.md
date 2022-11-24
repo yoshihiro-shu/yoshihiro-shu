@@ -1,3 +1,23 @@
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,go)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=py,flask,django)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+
+## Status
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshihiro-shu&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yoshihiro-shu&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoshihiro-shu&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## レポジトリ
 
 ### [Backend API](https://github.com/yoshihiro-shu/draft-backend)
@@ -33,13 +53,6 @@ Kubernetes　開発中
 
 [ニュースの管理サイト](https://github.com/yoshi429/Scraping-News)-スクレイピングを利用したニュースの管理サイト (Flask app in Django)
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshihiro-shu&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yoshihiro-shu&theme=onedark&show_icons=ture" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoshihiro-shu&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **yoshi429/yoshi429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
