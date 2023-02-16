@@ -1,6 +1,8 @@
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,react)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=py,flask,django)](https://skillicons.dev)
 
