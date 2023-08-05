@@ -22,7 +22,7 @@
 
 ### Tech Blog
 
-#### [Backend API](https://github.com/yoshihiro-shu/draft-backend)
+#### [Backend](https://github.com/yoshihiro-shu/draft-backend)
 
 Golang　開発中
 
