@@ -24,11 +24,7 @@
 
 #### [Backend](https://github.com/yoshihiro-shu/draft-backend)
 
-Golang　開発中
-
-- [Gorilla](https://github.com/gorilla/mux), PostgreSQL, Redis, Nginxを用いたWebAPI
-- Twitter API
-- 自分のテックブログを作成予定
+<img width="774" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/d4e45c23-3e7d-40fe-bb28-d45a9ce4c85e">
 
 #### [Frontend](https://github.com/yoshihiro-shu/draft-nuxt3) 
 
