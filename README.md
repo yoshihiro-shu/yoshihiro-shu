@@ -32,10 +32,7 @@
 
 #### [Infra](https://github.com/yoshihiro-shu/dratf-infra)　
 
-Kubernetes　開発中
-
-- Helmを用いてBackendAPIをdeploy
-
+<img width="745" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/cea82465-c3c8-4c61-8ce5-4a1a14051599">
 
 ### [Twitter-Api-With-Cobra-Command](https://github.com/yoshihiro-shu/twitter-api-by-cobra-command)
 
