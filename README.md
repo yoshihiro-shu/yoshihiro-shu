@@ -28,9 +28,7 @@
 
 #### [Frontend](https://github.com/yoshihiro-shu/draft-nuxt3) 
 
-React & ts 開発中
-
-- 自分のテックブログを作成予定
+<img width="430" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/d344adca-3c4c-4bbd-a437-53c28941bd7a">
 
 #### [Infra](https://github.com/yoshihiro-shu/dratf-infra)　
 
