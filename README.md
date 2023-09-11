@@ -18,7 +18,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoshihiro-shu&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-## レポジトリ
+## Repository
 
 ### Tech Blog
 
