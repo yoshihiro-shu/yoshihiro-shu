@@ -22,17 +22,13 @@
 
 ### Tech Blog
 
-#### [Backend](https://github.com/yoshihiro-shu/draft-backend)
-
-<img width="774" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/d4e45c23-3e7d-40fe-bb28-d45a9ce4c85e">
+<img width="745" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/cea82465-c3c8-4c61-8ce5-4a1a14051599">
 
 #### [Frontend](https://github.com/yoshihiro-shu/draft-nuxt3) 
 
-<img width="430" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/d344adca-3c4c-4bbd-a437-53c28941bd7a">
+#### [Backend](https://github.com/yoshihiro-shu/draft-backend)
 
 #### [Infra](https://github.com/yoshihiro-shu/dratf-infra)　
-
-<img width="745" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/cea82465-c3c8-4c61-8ce5-4a1a14051599">
 
 ### [Twitter-Api-With-Cobra-Command](https://github.com/yoshihiro-shu/twitter-api-by-cobra-command)
 
