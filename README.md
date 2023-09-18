@@ -22,7 +22,7 @@
 
 ### Tech Blog
 
-<img width="745" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/cea82465-c3c8-4c61-8ce5-4a1a14051599">
+<img width="663" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/7ec23f72-e818-43c0-b970-05050e2fe781">
 
 #### [Frontend](https://github.com/yoshihiro-shu/draft-nuxt3) 
 
