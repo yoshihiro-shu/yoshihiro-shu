@@ -32,7 +32,7 @@
 
 ## [finantial-bot](https://github.com/yoshihiro-shu/financial-bot/tree/main)
 
-<img width="471" alt="image" src="https://github.com/yoshihiro-shu/financial-bot/assets/84740493/c0aecaf8-9126-4c3b-a194-acc5e6cc8083">
+![image](https://github.com/yoshihiro-shu/financial-bot/assets/84740493/e64dcb21-7c4e-4075-a610-6813676a8676)
 
 ### [Twitter-Api-With-Cobra-Command](https://github.com/yoshihiro-shu/twitter-api-by-cobra-command)
 
