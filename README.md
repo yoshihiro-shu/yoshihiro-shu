@@ -28,8 +28,6 @@
 
 #### [Backend](https://github.com/yoshihiro-shu/draft-backend)
 
-#### [Infra](https://github.com/yoshihiro-shu/dratf-infra)　
-
 ## [finantial-bot](https://github.com/yoshihiro-shu/financial-bot/tree/main)
 
 ![image](https://github.com/yoshihiro-shu/financial-bot/assets/84740493/e64dcb21-7c4e-4075-a610-6813676a8676)
