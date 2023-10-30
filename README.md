@@ -22,6 +22,7 @@
 
 ### Tech Blog
 
+https://yoshihiro-shu.com/ja
 ![image](https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/ef9f52fe-b857-4c10-be6d-85eb303372ba)
 
 #### [Frontend](https://github.com/yoshihiro-shu/draft-next) 
