@@ -24,7 +24,7 @@
 
 [URL](https://yoshihiro-shu.com/ja)
 
-[System Architecure Design]
+[System Architecure Design](https://app.diagrams.net/#G1CuJWLpUqeXx_Qj7RZWCZc-ojCXzTaIJ_)
 [![image](https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/b3b6c632-4781-463f-bd0e-478c11d94b16)](https://app.diagrams.net/#G1CuJWLpUqeXx_Qj7RZWCZc-ojCXzTaIJ_)
 
 #### [Frontend](https://github.com/yoshihiro-shu/draft-next) 
