@@ -22,6 +22,8 @@
 
 ### [Tech Blog](https://yoshihiro-shu.com/ja)
 
+This is my technical blog.
+
 [System Architecure Design](https://app.diagrams.net/#G1CuJWLpUqeXx_Qj7RZWCZc-ojCXzTaIJ_)
 <img width="1006" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/d14ca722-5483-4a8f-a0d3-8a146103a3ac">
 
