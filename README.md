@@ -36,10 +36,6 @@ This is my technical blog.
 
 ![image](https://github.com/yoshihiro-shu/financial-bot/assets/84740493/e64dcb21-7c4e-4075-a610-6813676a8676)
 
-### [Twitter-Api-With-Cobra-Command](https://github.com/yoshihiro-shu/twitter-api-by-cobra-command)
-
-[Twiiter API](https://developer.twitter.com/en/docs/twitter-api) Via [Cobra](https://github.com/spf13/cobra) Command
-
 ### Hackthon
 
 [sns型のクイズの投稿サイト](https://github.com/yoshi429/quiz_project)
