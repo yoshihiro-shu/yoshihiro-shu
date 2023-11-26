@@ -27,10 +27,10 @@ This is my technical blog.
 [System Architecure Design](https://app.diagrams.net/#G1CuJWLpUqeXx_Qj7RZWCZc-ojCXzTaIJ_)
 <img width="1006" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/d14ca722-5483-4a8f-a0d3-8a146103a3ac">
 
+#### Repositories
 
-#### [Frontend](https://github.com/yoshihiro-shu/tech-blog-frontend) 
-
-#### [Backend](https://github.com/yoshihiro-shu/draft-backend)
+- [Frontend](https://github.com/yoshihiro-shu/tech-blog-frontend) 
+- [Backend](https://github.com/yoshihiro-shu/draft-backend)
 
 ## [finantial-bot](https://github.com/yoshihiro-shu/financial-bot/tree/main)
 
