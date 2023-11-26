@@ -25,7 +25,8 @@
 [URL](https://yoshihiro-shu.com/ja)
 
 [System Architecure Design](https://app.diagrams.net/#G1CuJWLpUqeXx_Qj7RZWCZc-ojCXzTaIJ_)
-[![image](https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/b3b6c632-4781-463f-bd0e-478c11d94b16)](https://app.diagrams.net/#G1CuJWLpUqeXx_Qj7RZWCZc-ojCXzTaIJ_)
+<img width="1006" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/d14ca722-5483-4a8f-a0d3-8a146103a3ac">
+
 
 #### [Frontend](https://github.com/yoshihiro-shu/tech-blog-frontend) 
 
