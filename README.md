@@ -2,11 +2,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,py,js,ts)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,react,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,django)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp,aws)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nginx,postgres,mysql,redis,mongodb,git,github,vscode)](https://skillicons.dev)
 
 ## Status
 
