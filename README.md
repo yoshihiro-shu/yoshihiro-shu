@@ -22,7 +22,7 @@
 
 ### [Tech Blog](https://yoshihiro-shu.com/ja)
 
-This is my technical blog.
+This is my Technical Blog.
 
 [System Architecure Design](https://app.diagrams.net/#G1CuJWLpUqeXx_Qj7RZWCZc-ojCXzTaIJ_)
 <img width="1006" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/d14ca722-5483-4a8f-a0d3-8a146103a3ac">
@@ -33,6 +33,8 @@ This is my technical blog.
 - [Backend](https://github.com/yoshihiro-shu/draft-backend)
 
 ## [finantial-bot](https://github.com/yoshihiro-shu/financial-bot/tree/main)
+
+A service that regularly sends financial information through a LINE Bot
 
 ![image](https://github.com/yoshihiro-shu/financial-bot/assets/84740493/e64dcb21-7c4e-4075-a610-6813676a8676)
 
