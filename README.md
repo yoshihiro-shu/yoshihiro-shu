@@ -1,10 +1,18 @@
 ## My Skills
 
+programing language
+
 [![My Skills](https://skillicons.dev/icons?i=go,py,js,ts)](https://skillicons.dev)
+
+framework
 
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,django)](https://skillicons.dev)
 
+infrastructure
+
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp,aws)](https://skillicons.dev)
+
+db
 
 [![My Skills](https://skillicons.dev/icons?i=nginx,postgres,mysql,redis,mongodb,git,github,vscode)](https://skillicons.dev)
 
