@@ -14,7 +14,15 @@ infrastructure
 
 db
 
-[![My Skills](https://skillicons.dev/icons?i=nginx,postgres,mysql,redis,mongodb,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
+
+web server 
+
+[![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+
+others
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ## Status
 
