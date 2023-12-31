@@ -6,7 +6,7 @@ programing language
 
 framework
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,vue,nuxtjs,react,nextjs,django)](https://skillicons.dev)
 
 infrastructure
 
