@@ -14,7 +14,7 @@ infrastructure
 
 db
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,kafka)](https://skillicons.dev)
 
 web server 
 
