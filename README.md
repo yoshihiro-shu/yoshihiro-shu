@@ -14,11 +14,15 @@ infrastructure
 
 db
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
 
 web server 
 
 [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+
+message queue
+
+[![My Skills](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
 
 observer
 
