@@ -6,7 +6,7 @@ programing language
 
 framework
 
-[![My Skills](https://skillicons.dev/icons?i=jest,vue,nuxtjs,react,nextjs,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,jest,vue,nuxtjs,react,nextjs,django)](https://skillicons.dev)
 
 infrastructure
 
@@ -22,7 +22,7 @@ web server
 
 others
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,prometheus)](https://skillicons.dev)
 
 ## Status
 
