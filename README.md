@@ -22,7 +22,7 @@ web server
 
 observer
 
-[![My Skills](https://skillicons.dev/icons?i=prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prometheus,grafana)](https://skillicons.dev)
 
 others
 
