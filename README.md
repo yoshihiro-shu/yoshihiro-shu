@@ -20,9 +20,13 @@ web server
 
 [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
 
+observer
+
+[![My Skills](https://skillicons.dev/icons?i=prometheus)](https://skillicons.dev)
+
 others
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,prometheus)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ## Status
 
