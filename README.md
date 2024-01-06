@@ -49,6 +49,7 @@ others
 This is my Technical Blog.
 
 figma  design
+
 <img width="473" alt="image" src="https://github.com/yoshihiro-shu/yoshihiro-shu/assets/84740493/976d7379-030e-4886-a194-2dc37c28ab57">
 
 [System Architecure Design](https://app.diagrams.net/#G1CuJWLpUqeXx_Qj7RZWCZc-ojCXzTaIJ_)
