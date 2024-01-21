@@ -1,6 +1,6 @@
 ## Repository
 
-### [Tech Blog](https://yoshihiro-shu.com/ja)
+### [Tech Blog](https://yoshihiro-shu.com)
 
 This is my Technical Blog.
 
